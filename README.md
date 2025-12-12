@@ -118,9 +118,9 @@ The pipeline demonstrates how minimal strings, when engineered properly, reveal 
 
 # Repository Structure
 
-    casefile-lure-investigation/
-    scam-ecosystem-analysis/
-    domain-profiler/
+    osint-casefile/
+    scam-ecosystem-study/
+    profiler/
     upi-clustering/
 
 ---
