@@ -1,4 +1,4 @@
-# OSINT & Fraud-Analysis Workbench
+# OSINT & Threat Intelligence Portfolio
 
 This repository contains four independent analytical units.  
 Two are **casefiles** built through passive OSINT and behavioural reconstruction.  
