@@ -1,0 +1,55 @@
+UPI,Amount,Date,Scam Type,State,Source,anomaly_tags,prefix,psp,prefix_length,digit_ratio,entropy,has_masking,looks_like_mobile,cluster
+guri09804@okhdfcbank,7500.0,2024-12-20,Religious Donation Scam,Delhi,reddit.com,[],guri09804,okhdfcbank,9,0.5555555555555556,2.94770277922009,0,0,0
+fathll@airtel,22000.0,18-09-2022,Job Posting Scam,Uttarakhand,consumercomplaints.in,['invalid_psp'],fathll,airtel,6,0.0,2.2516291673878226,0,0,4
+komers@ybl,22000.0,18-09-2022,Job Posting Scam,Uttarakhand,consumercomplaints.in,[],komers,ybl,6,0.0,2.584962500721156,0,0,4
+gasiram32@ybl,22000.0,18-09-2022,Job Posting Scam,Uttarakhand,consumercomplaints.in,[],gasiram32,ybl,9,0.2222222222222222,2.94770277922009,0,0,0
+8926087010@okbizaxis,5000.0,31-12-2021,Online Marketplace Scam (OLX),Punjab,consumercomplaints.in,[],8926087010,okbizaxis,10,1.0,2.6464393446710157,0,1,2
+tpsl.government@icici,500.0,29-11-2021,Police Verification Form Scam,Rajasthan,consumercomplaints.in,[],tpsl.government,icici,15,0.0,3.5068905956085183,0,0,1
+bi******ya@hdfcbank,2400.0,12-10-2021,Fake School Fees Payment Scam,,consumercomplaints.in,[],bi******ya,hdfcbank,10,0.0,1.7709505944546686,1,0,3
+mi.bills@ic,3200.0,-,Fake Customer Care Scam,Uttarakhand,consumercomplaints.in,['invalid_psp'],mi.bills,ic,8,0.0,2.5,0,0,4
+mondalsaptarathi@oksbi,25000.0,6-08-2025,Customer Support Impersonation Scam,Telangana,consumercomplaints.in,[],mondalsaptarathi,oksbi,16,0.0,3.375,0,0,1
+kannancrackers2015-1@oksbi,10000.0,11-03-2024,Online Purchase Scam,Tamil Nadu,consumercomplaints.in,[],kannancrackers2015-1,oksbi,20,0.25,3.446439344671015,0,0,1
+779698***55@kotak,3500.0,06-02-2024,Service Fraud,Maharashtra,consumercomplaints.in,[],779698***55,kotak,11,0.7272727272727273,2.481714572986073,1,0,3
+75687***18@axl,8000.0,27-11-2023,Crypto Telegram Fraud,Tripura,consumercomplaints.in,[],75687***18,axl,10,0.7,2.4464393446710155,1,0,3
+ixigo.payu@axisbank,2500.0,4-4-2023,Fake Ticketing Scam,Gujarat,consumercomplaints.in,[],ixigo.payu,axisbank,10,0.0,3.1219280948873624,0,0,1
+63280090570.payswiff@indus,3500.0,3-03-2024,Employment Scam,Maharashtra,consumercomplaints.in,[],63280090570.payswiff,indus,20,0.55,3.821928094887362,0,0,1
+@airtel,2500.0,18-3-2023,Task-Based Scam,,consumercomplaints.in,"['malformed_prefix', 'invalid_psp']",,airtel,0,0.0,0.0,0,0,4
+@centralbank,2500.0,18-3-2023,Task-Based Scam,,consumercomplaints.in,"['malformed_prefix', 'invalid_psp']",,centralbank,0,0.0,0.0,0,0,4
+@ibl,8500.0,20-2-2023,Online Financial Fraud,Andhra Pradesh,consumercomplaints.in,"['malformed_prefix', 'invalid_psp']",,ibl,0,0.0,0.0,0,0,4
+q72669644@ybl,10000.0,25-08-2022,Fake Property Listing Fraud,Karnataka,consumercomplaints.in,[],q72669644,ybl,9,0.8888888888888888,2.419381945646371,0,0,0
+8695736195@axl,40000.0,27-6-2022,Online Marketplace Scam (OLX),Odisha,consumercomplaints.in,[],8695736195,axl,10,1.0,2.721928094887362,0,1,2
+947947***5@upi,9000.0,06-04-2022,Job Offer Scam,West Bengal,consumercomplaints.in,['invalid_psp'],947947***5,upi,10,0.7,2.2464393446710154,1,0,3
+MYN6889921@axisbank,10000.0,9-10-2021,Fake Job Offer Scam,Maharashtra,consumercomplaints.in,[],MYN6889921,axisbank,10,0.7,2.9219280948873623,0,0,0
+paytm.s1ay6it@pty,1000.0,25-05-2025,Fake Job Offer Scam,Bihar,youtube.com,['suspicious_suffix'],paytm.s1ay6it,pty,13,0.1538461538461538,3.238901256602631,0,0,1
+flipkart.payu@axisbank,8500.0,3-4-2023,Fake Cashback Offer Scam,Bihar,youtube.com,[],flipkart.payu,axisbank,13,0.0,3.3927474104487847,0,0,1
+8299******@oksbi,18000.0,15-4-2025,Refund Scam,,youtube.com,[],8299******,oksbi,10,0.4,1.570950594454669,1,0,3
+flipkart.payu@icici,16000.0,5-09-2021,Refund Scam,,youtube.com,[],flipkart.payu,icici,13,0.0,3.3927474104487847,0,0,1
+ccbillpayment@icici,5000.0,4-05-2021,Pending Payment Scam,,youtube.com,[],ccbillpayment,icici,13,0.0,3.3927474104487847,0,0,1
+bigflyingservic56.rzp@icici,10000.0,25-08-2023,,,youtube.com,[],bigflyingservic56.rzp,icici,21,0.0952380952380952,3.975418017913833,0,0,1
+9838622663@ybl,,,,,reddit.com,[],9838622663,ybl,10,1.0,2.246439344671016,0,1,2
+******9119@ybl,,,,,linkedin.com,[],******9119,ybl,10,0.4,1.3709505944546687,1,0,3
+8826183869@paytm,,,,,linkedin.com,[],8826183869,paytm,10,1.0,2.321928094887362,0,1,2
+paytm-onlinelegalindia@ptybl,2300.0,16-4-2025,Government Services Scam,Bihar,x.com,['nonstandard_psp'],paytm-onlinelegalindia,ptybl,22,0.0,3.5039975273348483,0,0,1
+swamiboyshostel@idbi,,26-5-2025,,,x.com,[],swamiboyshostel,idbi,15,0.0,3.456564762130953,0,0,1
+9923558052@idbi,,26-5-2025,,,x.com,[],9923558052,idbi,10,1.0,2.4464393446710155,0,1,2
+902788***0dipika@pnb,,,,,x.com,['malformed_prefix'],902788***0dipika,pnb,16,0.4375,3.327819531114783,1,0,3
+shejanhaseenkhan@idbi,,,,,x.com,[],shejanhaseenkhan,idbi,16,0.0,2.6862781244591325,0,0,1
+ppqr01.bheros@iob,,,,,x.com,[],ppqr01.bheros,iob,13,0.1538461538461538,3.3927474104487847,0,0,1
+vipvikashm@okaxis,,,,,x.com,[],vipvikashm,okaxis,10,0.0,2.9219280948873623,0,0,1
+930617****@upi,,,,,x.com,['invalid_psp'],930617****,upi,10,0.6,2.5219280948873624,1,0,3
+mayursonavne961@okhdfcbank,5000.0,16-2-2023,,,consumercomplaintscourt.com,[],mayursonavne961,okhdfcbank,15,0.2,3.640223928941851,0,0,1
+Ashok94169@dbs,60000.0,20-01-2023,,,consumercomplaintscourt.com,[],Ashok94169,dbs,10,0.5,3.1219280948873624,0,0,0
+abuzarrizvi001@dbs,10000.0,26-4-2022,,,consumercomplaintscourt.com,[],abuzarrizvi001,dbs,14,0.2142857142857142,3.09306920777189,0,0,1
+alammondalz7585@okaxis,,,,,consumercomplaintscourt.com,[],alammondalz7585,okaxis,15,0.2666666666666666,3.1898980954642875,0,0,1
+Nick83@aubank,,,,,consumercomplaintscourt.com,[],Nick83,aubank,6,0.3333333333333333,2.584962500721156,0,0,0
+vishalkhae5454@ybl,76000.0,,,,consumercomplaintscourt.com,[],vishalkhae5454,ybl,14,0.2857142857142857,3.235926350629033,0,0,1
+manmohanmeena667815@okicici,80000.0,,,,consumercomplaintscourt.com,[],manmohanmeena667815,okicici,19,0.3157894736842105,3.2866294867861954,0,0,1
+mahesh-589@ptyes,80000.0,,,,consumercomplaintscourt.com,[],mahesh-589,ptyes,10,0.3,3.121928094887362,0,0,0
+mr.ayush.hardaha@okhdfcbank,1000.0,,,,consumercomplaintscourt.com,[],mr.ayush.hardaha,okhdfcbank,16,0.0,2.952819531114783,0,0,1
+q900271814@ybl,,,,,consumercomplaintscourt.com,[],q900271814,ybl,10,0.9,2.9219280948873623,0,0,0
+k76524186-2@okicici,,,,,consumercomplaintscourt.com,[],k76524186-2,okicici,11,0.8181818181818182,3.0957952550009344,0,0,0
+shamim02101998@okaxis,,,,,consumercomplaintscourt.com,[],shamim02101998,okaxis,14,0.5714285714285714,3.2359263506290334,0,0,0
+9896038768@ptyes,,,,,consumercomplaintscourt.com,[],9896038768,ptyes,10,1.0,2.4464393446710155,0,1,2
+798826314@omni,,,,,consumercomplaintscourt.com,['invalid_psp'],798826314,omni,9,1.0,2.94770277922009,0,0,0
+akash.samantaray@ptyes,,,,,consumercomplaintscourt.com,[],akash.samantaray,ptyes,16,0.0,2.9056390622295662,0,0,1
+0792856a0101242.bqr@kotak,,,,,consumercomplaintscourt.com,[],0792856a0101242.bqr,kotak,19,0.7368421052631579,3.6421498816369033,0,0,1

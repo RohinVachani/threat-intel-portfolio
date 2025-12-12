@@ -1,0 +1,11 @@
+requests
+python-whois
+mmh3
+beautifulsoup4
+tldextract
+cryptography
+dnspython
+bs4
+pandas
+scikit-learn
+joblib
